@@ -2,6 +2,7 @@
 Replication package for the paper, "Calculating the realized investment returns of U.S. electric utilities" (https://doi.org/10.1016/j.jup.2023.101684).
 
 Notes:
+ - Download the zip folder to obtain the code, data and figures.
  - Raw Form-1 data is obtained from fern.gov, and converted to a text file for each sheet and year: https://www.ferc.gov/general-information-0/electric-industry-forms/form-1-1-f-3-q-electric-historical-vfp-data
  - All other data is sourced in code within the comments
  - The analysis is executed in R. Open the .RProject file to have the relative references work.
